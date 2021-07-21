@@ -1,6 +1,6 @@
-import cv2
-import face_recognition as f
-import streamlit as st
-import numpy as np
-from PIL import Image
-import mediapipe as mp
+streamlit
+cv2
+face_recognition
+numpy
+Image
+mediapipe
